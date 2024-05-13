@@ -57,6 +57,7 @@ OrderAndProductManagement/
 - Also contains api endpoints.
 -----
 ## API Documentation
+- Port := ":3000"
 - This project provides a battery-included REST API that allows the user to interact with a MySQL database. The available endpoints are listed below:
 1. User Endpoints:
 ```
